@@ -55,4 +55,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Abdullah Naveed - [ANSY GAMES](https://sites.google.com/view/ansy-games/home) - artistflame@gmail.com
 
-Project Link: [Poetry_Generation_Urdu_Language]https://github.com/AbdullahNaveed/Poetry-Generation-Urdu-Language)
+Project Link: [https://github.com/AbdullahNaveed/Poetry-Generation-Urdu-Language]
